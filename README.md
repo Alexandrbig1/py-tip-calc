@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-A simple Python program to calculate the tip amount for a given bill. As my journey to learn Python
+A simple Python program to calculate the tip amount for a given bill. Created as part of my journey to learn Python.
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 
